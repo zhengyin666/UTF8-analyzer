@@ -1,4 +1,4 @@
-# UTF-8 Analyzer (C)
+# UTF-8 Analyzer
 
 A small command-line tool that analyzes an input UTF-8 string and prints useful properties such as ASCII validity, byte length, code point count, code point values, and detected animal emojis.
 
